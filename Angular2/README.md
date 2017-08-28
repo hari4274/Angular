@@ -20,4 +20,5 @@ step 3:
 npm install --save @angular/animations
 
 step 4:
+
 npm install --save hammerjs
